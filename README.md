@@ -1,7 +1,7 @@
 # Appointment-and-Attendance-System-with-Geo-Location
 It is a php based attendance and appointment management system which uses geo fencing to check whether user is in designated location or not. 
 
-Step1- User logins to their account or can even register.
+Step1- User logs in to their account or can even register.
 
 Step2- User can book an appointment and wait for the confirmation.
 
