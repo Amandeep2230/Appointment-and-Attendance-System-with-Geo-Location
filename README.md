@@ -12,4 +12,6 @@ Step4- Once admin accepts the request, a confirmation message is displayed to th
 Step5- User has to be physically present at the location in order to get entry and attendance can also be marked once the user's location is verified using              geofencing. 
 
 
+Note:- Create the databases and their respective tables with names used in the source code.
+
 Future Scope- Adding face recognition so that two factor authentication can be enabled. 
